@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape>
+            <gradient android:angle="45" android:startColor="#55FF0000" android:endColor="#FFFFFF"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/splash_layer2"
+        android:top="400dp"
+        android:left="400dp"/>
+    <item
+        android:drawable="@drawable/splash_layer1"
+        android:bottom="400dp"
+        android:right="400dp"/>
+</layer-list>
