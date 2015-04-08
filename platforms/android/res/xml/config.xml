@@ -10,11 +10,10 @@
         <param name="onload" value="true" />
     </feature>
     
-<!--     <preference name="SplashScreen" value="splash"/> -->
+    <preference name="SplashScreen" value="splash_bm"/>
 <!--     <preference name="SplashScreen" value="splash_layer_list"/> -->
-    <preference name="SplashScreen" value="splash_animation_list"/>
+<!--     <preference name="SplashScreen" value="splash_animation_list"/> -->
     <preference name="SplashScreenDelay" value="60000" />
     <preference name="SplashMaintainAspectRatio" value="true"/>
-<!--     <preference name="SplashReloadOnOrientationChange" value="true"/> -->
 </widget>
 

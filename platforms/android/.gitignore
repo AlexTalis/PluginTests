@@ -12,3 +12,5 @@ gen
 out
 # Gradle builds
 /build
+/lint.xml
+**/.DS_Store
